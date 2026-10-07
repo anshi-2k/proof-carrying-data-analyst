@@ -1,0 +1,10 @@
+Order_ID,Order_Date,Product,Region,Quantity,Sales,Profit
+1001,03/04/2026,Laptop,North,2,"$2,400",300
+1002,05/04/2026,Mouse,north,10,$150,40
+1003,04/05/2026,Phone,South,3,€2100,250
+1004,06/05/2026,Laptop,East,1,$1200,150
+1004,06/05/2026,Laptop,East,1,$1200,150
+1005,07/05/2026,Desk,West,2,N/A,
+1006,08/06/2026,Chair,East,4,$600,90
+1007,09/06/2026,Mouse,South,5,$75,20
+1007,09/06/2026,Mouse,South,5,$750,20
